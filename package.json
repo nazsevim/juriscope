@@ -1,0 +1,6 @@
+{
+  "name": "juriscope",
+  "version": "95.2.0",
+  "private": true,
+  "engines": {"node": ">=20"}
+}

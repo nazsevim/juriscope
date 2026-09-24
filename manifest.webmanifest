@@ -1,0 +1,17 @@
+{
+  "name": "Juriscope",
+  "short_name": "Juriscope",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f6f1e8",
+  "theme_color": "#561f2c",
+  "description": "Interactive legal case archive and study platform.",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
