@@ -1,3 +1,2 @@
-JURISCOPE V90.1 — Case of the Week CTA spacing micro-fix
-
-Based on V90. Only adjusted the spacing between “Explore case” and “Study this case” on the Case of the Week card. No functional JavaScript or data changes.
+Juriscope V95.3.2 — Vercel static asset fix.
+The Node function is retained, while HTML/SVG/manifest/service-worker assets are explicitly deployed and filesystem routing is enabled before the server fallback.
