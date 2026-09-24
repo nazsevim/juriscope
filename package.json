@@ -1,6 +1,11 @@
 {
   "name": "juriscope",
-  "version": "95.2.0",
+  "version": "96.0.0",
   "private": true,
-  "engines": {"node": ">=20"}
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "@vercel/blob": "^2.6.1"
+  }
 }

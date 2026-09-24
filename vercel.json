@@ -11,7 +11,9 @@
           "*.svg",
           "*.webmanifest",
           "sw.js",
-          "juriscope-data.json"
+          "juriscope-data.json",
+          "cases-base.json",
+          "areas-base.json"
         ]
       }
     }
